@@ -71,7 +71,6 @@ headers = {"Authorization": f"Bearer {API_KEY}"}
 
 st.sidebar.markdown("---")
 
-
 # Let's add some info about the app to the sidebar.
 
 st.sidebar.write(
